@@ -1,8 +1,10 @@
 ol {
     text-align: center;
+    
+    color: #ba9d32;
 }
 #timeCircle {
-    background-color: yellow;
+    background-color: #65b53a;
     width: 200px;
     height: 200px;
     border-radius: 100px;
@@ -16,6 +18,8 @@ ol {
 .btn {
     width: 100px;
     padding: 10px;
+    background-color: #413c91;
+    color: white;
 }
 .btn-start{
     width: 204px;
@@ -26,9 +30,11 @@ ol {
 main {
     max-width: 210px;;
 }
-h1, h2 {
+h1 {
     text-align: center;
+    color: #d0b243;
 }
 body{
     font-size: 14pt;
+    
 }
