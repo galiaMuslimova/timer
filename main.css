@@ -1,0 +1,34 @@
+ol {
+    text-align: center;
+}
+#timeCircle {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    text-align: center;
+}
+#timer {
+    padding-top: 90px;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.btn {
+    width: 100px;
+    padding: 10px;
+}
+.btn-start{
+    width: 204px;
+}
+.btnList {
+    margin-top: 10px;
+}
+main {
+    max-width: 210px;;
+}
+h1, h2 {
+    text-align: center;
+}
+body{
+    font-size: 14pt;
+}
