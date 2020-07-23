@@ -1,3 +1,4 @@
 # timer
-Секундомер с возможностью записать время.
-Написан на javascript во взаимодействие с DOM.
+Timer javascript, DOM
+
+ https://galiamuslimova.github.io/timer/
